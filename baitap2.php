@@ -179,7 +179,7 @@ function cau3($n) {
 echo "<h1>Câu 3</h1>";
 
 $n = 10;
-cau2($n);
+cau3($n);
 
 echo"<hr>";
 
